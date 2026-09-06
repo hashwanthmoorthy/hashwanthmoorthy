@@ -82,13 +82,8 @@ Experience                DeepThink Health · Tech Mahindra · Temenos
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hashwanthmoorthy&show_icons=true&hide_border=true&bg_color=0D0B1E&title_color=C084FC&text_color=D8CEF0&icon_color=EC4899" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashwanthmoorthy&layout=compact&hide_border=true&bg_color=0D0B1E&title_color=C084FC&text_color=D8CEF0" alt="Top languages" />
+### Open to Data Engineer, Data Analyst, AI Engineer and Business Analyst roles
 
-<br><br>
-
-**Open to Data Engineer, Data Analyst, AI Engineer and Business Analyst roles.**
-
-[hashwanthmoorthy.github.io](https://hashwanthmoorthy.github.io)
+[![Portfolio](https://img.shields.io/badge/See%20the%20full%20portfolio-hashwanthmoorthy.github.io-7C3AED?style=for-the-badge&labelColor=0D0B1E)](https://hashwanthmoorthy.github.io)
 
 </div>
