@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hashwanthmoorthy.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hashwanthmoorthy.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashwanthmoorthy/)
-[![Location](https://img.shields.io/badge/Boston,%20MA-EC4899?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
 
 </div>
 
